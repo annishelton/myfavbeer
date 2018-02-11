@@ -73,7 +73,7 @@ box-shadow: 0px 22px 29px -5px rgba(173,170,173,1);
   }
 
 button{
-     display: flex;
+     display: center;
   justify-content: space-between;
   align-items: right;
   padding: 8px 12px;
